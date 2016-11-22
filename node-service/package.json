@@ -1,0 +1,14 @@
+{
+  "name": "node-flyweb-hello-world",
+  "version": "1.0.0",
+  "description": "A simple NodeJS Flyweb hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "dependencies": {
+    "mdns": "^2.3.3"
+  }
+}
